@@ -4,7 +4,7 @@
 
 **Foodie** is a fully responsive, visually appealing website for showcasing burgers, pizzas, drinks, and more. Built using only **HTML**, **CSS**, and minimal **JavaScript**, it's designed to give visitors an engaging food-ordering or promotional site experience.
 
-🔗 **Live Website:** 
+🔗 **Live Website:** [vikramfoodcourt.netlify.app](vikramfoodcourt.netlify.app)
 
 ---
 
@@ -42,4 +42,5 @@
 │   │   └── [hero images, promo images, icons...]
 ├── favicon.svg
 #
+
 
