@@ -4,7 +4,7 @@
 
 **Foodie** is a fully responsive, visually appealing website for showcasing burgers, pizzas, drinks, and more. Built using only **HTML**, **CSS**, and minimal **JavaScript**, it's designed to give visitors an engaging food-ordering or promotional site experience.
 
-🔗 **Live Website:** [arunfoodie.netlify.app](http://arunfoodie.netlify.app)
+🔗 **Live Website:** 
 
 ---
 
@@ -42,3 +42,4 @@
 │   │   └── [hero images, promo images, icons...]
 ├── favicon.svg
 #
+
